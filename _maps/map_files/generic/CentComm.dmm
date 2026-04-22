@@ -16750,6 +16750,7 @@
 	name = "emergency centcom";
 	width = 29
 	},
+/obj/structure/fans/tiny,
 /turf/simulated/floor/plasteel{
 	dir = 8;
 	icon_state = "neutralfull"
@@ -44787,6 +44788,7 @@
 	id_tag = "s_docking_airlock";
 	name = "Shuttle Hatch"
 	},
+/obj/structure/fans/tiny,
 /turf/simulated/floor/plasteel{
 	dir = 8;
 	icon_state = "neutralfull"
@@ -52129,6 +52131,7 @@
 	id_tag = "s_docking_airlock";
 	name = "Shuttle Hatch"
 	},
+/obj/structure/fans/tiny,
 /turf/simulated/floor/shuttle/objective_check{
 	icon = 'icons/turf/floors.dmi';
 	icon_state = "darkreddarkfull"
